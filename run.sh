@@ -17,5 +17,5 @@ do
         git push origin
     fi
 
-    sleep 1h
+    sleep 30m
 done
